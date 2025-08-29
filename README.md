@@ -64,7 +64,7 @@ I'm a passionate and well-trained **DevOps Engineer**, moving from a **semi-IT b
 
 <p align="center">
   <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" height="40" alt="Splunk" />
+    <img src="https://logo.svgcdn.com/l/splunk.svg" alt="Splunk" width="40" />
   </a>
   &nbsp;
   <a href="https://prometheus.io/" target="_blank">
