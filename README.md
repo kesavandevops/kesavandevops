@@ -64,15 +64,15 @@ I'm a passionate and well-trained **DevOps Engineer**, moving from a **semi-IT b
 
 <p align="center">
   <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" height="40" alt="Splunk" />
   </a>
   &nbsp;
   <a href="https://prometheus.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />
   </a>
   &nbsp;
   <a href="https://grafana.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
   </a>
 </p>
 
