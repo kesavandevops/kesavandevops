@@ -1,53 +1,84 @@
 <h1 align="center">Hi, I'm Kesavan 👋</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform</h3>
-<p align="center">📍 Chennai, India | 💼 Transitioning from CMS to Cloud Engineering</p>
+<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Terraform</h3>
+<p align="center">📍 Chennai, India | 💼 Transitioned from CMS to Cloud Native Engineering</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hello! I'm a passionate and detail-oriented **DevOps Engineer**, transitioning from a **CMS-based (semi-IT)** background into a full-fledged IT environment. I've built a strong foundation in automation, cloud infrastructure, and modern DevOps practices.
+I'm a passionate and well-trained **DevOps Engineer**, moving from a **semi-IT background in CMS** into a full-stack DevOps role. I’m focused on building, automating, and securing cloud infrastructure with modern tools and best practices.
 
-- 💡 Skilled in AWS, CI/CD, Infrastructure as Code, and Container Orchestration
-- 🧠 Always learning and upgrading — currently exploring advanced Kubernetes & Python automation
-- 🤝 Open to collaboration, learning opportunities, and real-world DevOps projects
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+- 🌱 Transitioned into DevOps after hands-on training in cloud and automation
+- 🔧 Skilled in infrastructure-as-code, container orchestration, monitoring, and scripting
+- 🤝 Open to collaborating on DevOps, cloud, or automation projects
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  </a>
+  &nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  </a>
+  &nbsp;
+  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/network-card.png" height="40" alt="CCNA" />
+  </a>
+  &nbsp;
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+  </a>
+  &nbsp;
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  </a>
+  &nbsp;
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  </a>
+  &nbsp;
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  </a>
+  &nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_title=true&count_private=true" height="160" />
@@ -61,15 +92,14 @@ Hello! I'm a passionate and detail-oriented **DevOps Engineer**, transitioning f
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“From content systems to cloud systems — I build, automate, and deploy.”</i>
-</p>
+<p align="center"><i>“From content systems to cloud systems — I build, automate, and deploy.”</i></p>
