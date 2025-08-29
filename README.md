@@ -92,12 +92,12 @@ I'm a passionate and well-trained **DevOps Engineer**, moving from a **semi-IT b
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="20" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:your@email.com">
-  <img src="https://icons.veryicon.com/png/o/education-technology/power-icon/mail-250.png" height="25" alt="Email Badge"/>
-</a>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
