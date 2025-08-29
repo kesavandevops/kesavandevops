@@ -96,7 +96,7 @@ I'm a passionate and well-trained **DevOps Engineer**, moving from a **semi-IT b
   </a>
   &nbsp;
   <a href="mailto:your@email.com">
-  <img src="https://icons.veryicon.com/png/o/education-technology/power-icon/mail-250.png" height="20" alt="Email Badge"/>
+  <img src="https://icons.veryicon.com/png/o/education-technology/power-icon/mail-250.png" height="25" alt="Email Badge"/>
 </a>
 </p>
 
