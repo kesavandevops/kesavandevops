@@ -78,6 +78,69 @@ I'm a passionate and well-trained **DevOps Engineer**, moving from an **ITeS bac
 
 ---
 
+### ✨ **DevOps Portfolio Highlights**
+
+🚀 **End-to-End Enterprise DevOps Workflow**
+
+CI/CD → Security → Containers → AWS → Kubernetes → Observability → Logging → ChatOps
+
+* Automated CI/CD with **Jenkins**
+* **Trivy** security scanning
+* **Docker** builds → **AWS ECR**
+* Deployments to **EKS** using **Ansible**
+* Full observability stack: **Prometheus + Grafana + HPA**
+* Centralized logging with **Splunk**
+* Real-time pipeline notifications via **Slack**
+
+🔄 **Advanced Deployment Strategies**
+
+* **Blue-Green** & **Canary** releases on EKS
+* Jenkinsfile-based automation
+* Automated testing + rollout promotion
+
+🏗️ **Terraform Infrastructure on AWS**
+
+* VPC, Subnets, EC2, S3, IAM, RDS MySQL
+* Remote backend (S3 + DynamoDB)
+* GitHub Actions CI/CD for infra deployments
+
+📊 **Monitoring & Logging Platform**
+
+* Prometheus + K8s service discovery
+* Grafana dashboards (nodes, pods, app metrics)
+* Splunk Enterprise + Universal Forwarder for centralized logs
+
+🧩 **Microservices with Docker & Kubernetes**
+
+* Flask API + Redis worker + Nginx reverse proxy
+* Docker Compose local stack
+* Production-grade K8s manifests
+
+⚡ **Serverless Architecture**
+
+* AWS Lambda (Python)
+* API Gateway routing
+* DynamoDB storage
+* Terraform + GitHub Actions CI/CD (OIDC)
+
+🌟 **Core Skills**
+
+**AWS • Kubernetes • Terraform • Ansible • Jenkins • GitHub Actions • Docker • Prometheus • Grafana • Splunk • Python (Flask) • GitOps • CI/CD • Observability • Blue/Green & Canary Deployments • Trivy**
+
+🎯 **Strengths**
+
+* Builds production-style DevOps pipelines
+* Designs full CI/CD + Monitoring + Logging systems
+* Strong AWS + Kubernetes engineering
+* Solid IaC workflows with Terraform & Ansible
+* End-to-end project ownership & documentation
+
+👉 **View Full Portfolio**
+
+🔗 **[Click here to see my complete devops portfolio →](https://github.com/kesavandevops/devops-portfolio)**
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
