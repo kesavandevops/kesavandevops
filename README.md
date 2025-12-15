@@ -137,7 +137,7 @@ CI/CD → Security → Containers → AWS → Kubernetes → Observability → L
 
 👉 **View Full Portfolio**
 
-🔗 **[Click here to see my devops portfolio →](https://github.com/kesavandevops/devops-portfolio)**
+🔗 **[Click here to see my devops portfolio](https://github.com/kesavandevops/devops-portfolio)**
 
 ---
 
