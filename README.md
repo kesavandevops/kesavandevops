@@ -21,6 +21,10 @@ I'm a passionate and well-trained **DevOps Engineer**, moving from an **ITeS bac
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
   </a>
   &nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  </a>
+  &nbsp;
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   </a>
