@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and well-trained **DevOps Engineer**, moving from an **ITeS background in CMS** into a full-stack DevOps role. I’m focused on building, automating, and securing cloud infrastructure with modern tools and best practices.
+I'm a passionate and well-trained **DevOps Engineer**, moving from an **ITeS background in PCI** into a full-stack DevOps role. I’m focused on building, automating, and securing cloud infrastructure with modern tools and best practices.
 
 - 🌱 Transitioned into DevOps after hands-on training in cloud and automation
 - 🔧 Skilled in infrastructure-as-code, container orchestration, monitoring, and scripting
